@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Input-msg Box", "Input-msg Box.vbproj", "{736BA61E-0C3E-477A-AA65-DE51B49EC57F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736BA61E-0C3E-477A-AA65-DE51B49EC57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736BA61E-0C3E-477A-AA65-DE51B49EC57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736BA61E-0C3E-477A-AA65-DE51B49EC57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736BA61E-0C3E-477A-AA65-DE51B49EC57F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADA635C-38A6-4F53-B02B-0DFB36D95898}
+	EndGlobalSection
+EndGlobal
